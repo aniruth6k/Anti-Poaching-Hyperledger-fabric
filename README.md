@@ -1,7 +1,3 @@
-Absolutely! Here's an improved version of your `README.md` with clearer structure, proper formatting, and helpful descriptions so other users (or your future self) can understand and run the project more easily.
-
----
-
 ```markdown
 # 🦌 Anti-Poaching System using Hyperledger Fabric
 
