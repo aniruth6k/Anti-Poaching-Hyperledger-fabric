@@ -1,0 +1,17 @@
+{
+  "name": "eventtracker",
+  "version": "1.0.0",
+  "description": "Smart contract for tracking events on blockchain",
+  "main": "index.js",
+  "scripts": {
+    "start": "fabric-chaincode-node start"
+  },
+  "engines": {
+    "node": ">=12",
+    "npm": ">=6.9"
+  },
+  "dependencies": {
+    "fabric-contract-api": "^2.2.0",
+    "fabric-shim": "^2.2.0"
+  }
+}
