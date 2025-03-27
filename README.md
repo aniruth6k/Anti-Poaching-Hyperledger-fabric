@@ -1,4 +1,3 @@
-```markdown
 # 🦌 Anti-Poaching System using Hyperledger Fabric
 
 This project demonstrates a basic anti-poaching event tracking system built on **Hyperledger Fabric**, featuring:
